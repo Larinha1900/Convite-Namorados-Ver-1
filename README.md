@@ -152,7 +152,7 @@
     </div>
     <div id="tela-nao">
       <img id="img-nao" src="dog.jpg" alt="Resposta Não" style="max-width:100%; border-radius: 15px;"/>
-      <h2>Ah, que pena... Talvez na próxima vez!</h2>
+     
     </div>
   </div>
 
